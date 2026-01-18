@@ -1,0 +1,13 @@
+{
+  "audio_input_device": "default",
+  "language": "ja",
+  "translation_language": "en",
+  "caption_display_duration": 5,
+  "enable_auto_start": true,
+  "sample_rate": 16000,
+  "chunk_size": 1024,
+  "energy_threshold": 300,
+  "api_keys": {
+    "translation_service": ""
+  }
+}
